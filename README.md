@@ -30,8 +30,6 @@
  
  - 🚀 I do full-stack and a bit of everything 💜
  
- - ✨ All about building impactful software
- 
  - ⚡ 10-year Manchester United fan—through the highs and the lows 🔴
 
  
