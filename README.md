@@ -1,10 +1,23 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwaHI5bXRrY3QxNWVkbTY0cmJkMHNuMWZjanV0Mm01ZnhhZXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRmXTEGWIESZrnmipe/giphy.gif" width="200" height="200" style="border-radius: 50%"/>
-</div>
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwaHI5bXRrY3QxNWVkbTY0cmJkMHNuMWZjanV0Mm01ZnhhZXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRmXTEGWIESZrnmipe/giphy.gif" />
 
-# 💫 About Me:
-🔧 I'm currently working on<br>Full-stack development at GoGaucho and supporting A/V infrastructure at UCSB's ILP.<br><br>🤝 I'm looking to collaborate on<br>Open-source projects and web applications.<br><br>🤔 I'm looking for help with<br>System architecture and backend optimization.<br><br>🎓 I'm currently learning<br>Cloud technologies and modern DevOps practices.<br><br>⚡ Fun fact<br>10-year Manchester United fan—through the highs and the lows.
+<p align="center">
+  <h3>I'm a 19-year-old Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
+</p>
 
+ - 🔧 Full-stack development at GoGaucho and supporting A/V infrastructure at UCSB's ILP
+ 
+ - <i>with JavaScript, TypeScript, React, Vue.js, Python, C++, and 20 others.</i>
+   
+ - ⚡ 10-year Manchester United fan—through the highs and the lows 🔴
+
+ - 🎓 Into System Design, Web Development, and Data Structures
+ 
+ - 🚀 I do full-stack and a bit of everything 💜
+ 
+ - ✨ All about building impactful software
+ 
+ - 💬 Connect? lets get social 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="20">](https://linkedin.c
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cnguyen883) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c_dung1712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dungnguyen1712) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cnguyen883@ucsb.edu) 
