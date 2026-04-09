@@ -4,10 +4,10 @@
 </div>
 
 <p align='center'>
-   <a href="https://linkedin.com/in/dungnguyen1712"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://facebook.com/cnguyen883"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/c_dung1712"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="mailto:cnguyen883@ucsb.edu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/gmail.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://linkedin.com/in/dungnguyen1712"><img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="https://facebook.com/cnguyen883"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/c_dung1712"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="mailto:cnguyen883@ucsb.edu"><img height="30" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -22,17 +22,18 @@
   <h3>I'm a 19-year-old Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
 </p>
 
- - 🔧 Full-stack development at GoGaucho and supporting A/V infrastructure at UCSB's ILP
+ - 🔧 Full-stack development at GoGaucho and Student Technician at UCSB's ILP
  
  - <i>with JavaScript, TypeScript, React, Vue.js, Python, C++, and 20 others.</i>
    
- - ⚡ 10-year Manchester United fan—through the highs and the lows 🔴
-
  - 🎓 Into System Design, Web Development, and Data Structures
  
  - 🚀 I do full-stack and a bit of everything 💜
  
  - ✨ All about building impactful software
+ 
+ - ⚡ 10-year Manchester United fan—through the highs and the lows 🔴
+
  
  - 💬 Connect? lets get social 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="20">](https://linkedin.c
 
