@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔧 I'm currently working on<br>Maintaining GoGaucho's student platform and supporting A/V infrastructure as a Student Technician at UCSB's Interactive Learning Pavilion.<br><br>🤝 I'm looking to collaborate on<br>Full-stack web applications and open-source projects.<br><br>🤔 I'm looking for help with<br>Backend web development and system architecture.<br><br>🎓 I'm currently learning<br>Full-stack development with modern frameworks and cloud technologies.<br><br>⚡ Fun fact<br>10-year Manchester United fan—through the highs and the lows.
+🔧 I'm currently working on<br>Full-stack development at GoGaucho and supporting A/V infrastructure at UCSB's ILP.<br><br>🤝 I'm looking to collaborate on<br>Full-stack web applications and open-source projects.<br><br>🤔 I'm looking for help with<br>Backend web development and system architecture.<br><br>🎓 I'm currently learning<br>Full-stack development with modern frameworks and cloud technologies.<br><br>⚡ Fun fact<br>10-year Manchester United fan—through the highs and the lows.
 
 
 ## 🌐 Socials:
