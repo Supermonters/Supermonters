@@ -1,3 +1,20 @@
+
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/Supermonters">Dung</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+<p align='center'>
+   <a href="https://linkedin.com/in/dungnguyen1712"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://facebook.com/cnguyen883"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/c_dung1712"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="mailto:cnguyen883@ucsb.edu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/gmail.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Chi Dung Nguyen | 💻 Full Stack Developer | 🛸 Vietnam, USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwaHI5bXRrY3QxNWVkbTY0cmJkMHNuMWZjanV0Mm01ZnhhZXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRmXTEGWIESZrnmipe/giphy.gif" />
 
