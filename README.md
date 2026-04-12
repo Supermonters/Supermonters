@@ -19,13 +19,11 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwaHI5bXRrY3QxNWVkbTY0cmJkMHNuMWZjanV0Mm01ZnhhZXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRmXTEGWIESZrnmipe/giphy.gif" />
 
 <p align="center">
-  <h3>I'm a 19-year-old Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
+  <h3>I'm a Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
 </p>
 
  - 🔧 Full-stack development at GoGaucho and Student Technician at UCSB's ILP
- 
- - <i>with JavaScript, TypeScript, React, Vue.js, Python, C++, and 20 others.</i>
-   
+    
  - 🎓 Into System Design, Web Development, and Data Structures
  
  - 🚀 I do full-stack and a bit of everything 💜
