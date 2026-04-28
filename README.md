@@ -22,13 +22,13 @@
   <h3>I'm a Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
 </p>
 
- - 🔧 Full-stack development at GoGaucho and Student Technician at UCSB's ILP
+ -  Full-stack development at GoGaucho and Student Technician at UCSB's ILP
     
- - 🎓 Into System Design, Web Development, and Data Structures
+ -  Into System Design, Web Development, and Data Structures
  
- - 🚀 I do full-stack and a bit of everything 💜
+ -  I do full-stack and a bit of everything 💜
  
- - ⚡ 10-year Manchester United fan—through the highs and the lows 🔴
+ -  10-year Manchester United fan—through the highs and the lows 🔴
 
  
 
