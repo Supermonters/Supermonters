@@ -26,9 +26,9 @@
     
  -  Into System Design, Web Development, and Data Structures
  
- -  I do full-stack and a bit of everything 💜
+ -  Learning Next.js
  
- -  10-year Manchester United fan—through the highs and the lows 🔴
+ -  10-year Manchester United fan
 
  
 
