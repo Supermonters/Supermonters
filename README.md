@@ -22,7 +22,7 @@
   <h3>I'm a Full-Stack Developer from Vietnam, studying CS at UCSB.</h3>
 </p>
 
- -  Full-stack development at GoGaucho and Student Technician at UCSB's ILP
+ -  Full-stack development at GoGaucho and IT Technician at UCSB's ILP
     
  -  Into System Design, Web Development, and Data Structures
  
